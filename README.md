@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DLPQ
+- 👋 Hi, I’m @DanyaLearning
 - 👀 I’m interested in Quantum Machine Learning
 - 📫 How to reach me daniel.pranjic@iao.fraunhofer.de
 
