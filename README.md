@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DLPQ
 - 👀 I’m interested in Quantum Machine Learning
-- - 🌱 Never stop learning, except when var(L) -> 0. 
 - 📫 How to reach me daniel.pranjic@iao.fraunhofer.de
 
 <!---
